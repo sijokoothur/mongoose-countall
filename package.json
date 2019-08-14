@@ -1,0 +1,16 @@
+{
+  "name": "mongoose-countall",
+  "version": "1.0.0",
+  "description": "Mongosse countAll function ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "countAll",
+    "findAndCountAll",
+    "count"
+  ],
+  "author": "sijo",
+  "license": "ISC"
+}
